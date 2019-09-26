@@ -1,0 +1,2 @@
+- Please visit http://videopro.cactusthemes.com/doc/ for online and updated version of document
+- For offline version, you will need to open index.html file in each sub-folder

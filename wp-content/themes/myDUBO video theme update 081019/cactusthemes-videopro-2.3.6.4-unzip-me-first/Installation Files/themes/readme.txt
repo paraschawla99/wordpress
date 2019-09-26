@@ -1,0 +1,3 @@
+- child themes/videopro-child.zip is a blank child theme. If you need to customize some thing, use it to start.
+- child themes/videopro-posts.zip is a child theme which change thumbnails into Poster Size. Use it if you need.
+- child themes/videopro-child-light-footer.zip is to change Footer schema into light color, just like our demo http://videopro.cactusthemes.com/cooking/
